@@ -120,3 +120,13 @@
 | --- | --- | --- |
 | ![chinese digital oil painting person preview](/preview_generator/images/chinese_digital_oil_painting_person.webp?raw=true) | ![chinese digital oil painting place preview](/preview_generator/images/chinese_digital_oil_painting_place.webp?raw=true) | ![chinese digital oil painting thing preview](/preview_generator/images/chinese_digital_oil_painting_thing.webp?raw=true) |
 
+## the people's new year
+| person | place | thing |
+| --- | --- | --- |
+| ![the people's new year person preview](/preview_generator/images/the_people_s_new_year_person.webp?raw=true) | ![the people's new year place preview](/preview_generator/images/the_people_s_new_year_place.webp?raw=true) | ![the people's new year thing preview](/preview_generator/images/the_people_s_new_year_thing.webp?raw=true) |
+
+## chinese pictogram
+| person | place | thing |
+| --- | --- | --- |
+| ![chinese pictogram person preview](/preview_generator/images/chinese_pictogram_person.webp?raw=true) | ![chinese pictogram place preview](/preview_generator/images/chinese_pictogram_place.webp?raw=true) | ![chinese pictogram thing preview](/preview_generator/images/chinese_pictogram_thing.webp?raw=true) |
+
