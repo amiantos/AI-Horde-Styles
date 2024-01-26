@@ -255,3 +255,108 @@
 | --- | --- | --- |
 | ![isometric person preview](/preview_generator/images/isometric_person.webp?raw=true) | ![isometric place preview](/preview_generator/images/isometric_place.webp?raw=true) | ![isometric thing preview](/preview_generator/images/isometric_thing.webp?raw=true) |
 
+## lowpoly
+| person | place | thing |
+| --- | --- | --- |
+| ![lowpoly person preview](/preview_generator/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/preview_generator/images/lowpoly_place.webp?raw=true) | ![lowpoly thing preview](/preview_generator/images/lowpoly_thing.webp?raw=true) |
+
+## claymation
+| person | place | thing |
+| --- | --- | --- |
+| ![claymation person preview](/preview_generator/images/claymation_person.webp?raw=true) | ![claymation place preview](/preview_generator/images/claymation_place.webp?raw=true) | ![claymation thing preview](/preview_generator/images/claymation_thing.webp?raw=true) |
+
+## origami
+| person | place | thing |
+| --- | --- | --- |
+| ![origami person preview](/preview_generator/images/origami_person.webp?raw=true) | ![origami place preview](/preview_generator/images/origami_place.webp?raw=true) | ![origami thing preview](/preview_generator/images/origami_thing.webp?raw=true) |
+
+## lineart
+| person | place | thing |
+| --- | --- | --- |
+| ![lineart person preview](/preview_generator/images/lineart_person.webp?raw=true) | ![lineart place preview](/preview_generator/images/lineart_place.webp?raw=true) | ![lineart thing preview](/preview_generator/images/lineart_thing.webp?raw=true) |
+
+## pixelart
+| person | place | thing |
+| --- | --- | --- |
+| ![pixelart person preview](/preview_generator/images/pixelart_person.webp?raw=true) | ![pixelart place preview](/preview_generator/images/pixelart_place.webp?raw=true) | ![pixelart thing preview](/preview_generator/images/pixelart_thing.webp?raw=true) |
+
+## embroidery
+| person | place | thing |
+| --- | --- | --- |
+| ![embroidery person preview](/preview_generator/images/embroidery_person.webp?raw=true) | ![embroidery place preview](/preview_generator/images/embroidery_place.webp?raw=true) | ![embroidery thing preview](/preview_generator/images/embroidery_thing.webp?raw=true) |
+
+## broadsheetart
+| person | place | thing |
+| --- | --- | --- |
+| ![broadsheetart person preview](/preview_generator/images/broadsheetart_person.webp?raw=true) | ![broadsheetart place preview](/preview_generator/images/broadsheetart_place.webp?raw=true) | ![broadsheetart thing preview](/preview_generator/images/broadsheetart_thing.webp?raw=true) |
+
+## watercolorscenery
+| person | place | thing |
+| --- | --- | --- |
+| ![watercolorscenery person preview](/preview_generator/images/watercolorscenery_person.webp?raw=true) | ![watercolorscenery place preview](/preview_generator/images/watercolorscenery_place.webp?raw=true) | ![watercolorscenery thing preview](/preview_generator/images/watercolorscenery_thing.webp?raw=true) |
+
+## pencilscribbles
+| person | place | thing |
+| --- | --- | --- |
+| ![pencilscribbles person preview](/preview_generator/images/pencilscribbles_person.webp?raw=true) | ![pencilscribbles place preview](/preview_generator/images/pencilscribbles_place.webp?raw=true) | ![pencilscribbles thing preview](/preview_generator/images/pencilscribbles_thing.webp?raw=true) |
+
+## sdxlchibis
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlchibis person preview](/preview_generator/images/sdxlchibis_person.webp?raw=true) | ![sdxlchibis place preview](/preview_generator/images/sdxlchibis_place.webp?raw=true) | ![sdxlchibis thing preview](/preview_generator/images/sdxlchibis_thing.webp?raw=true) |
+
+## sdxlstreetfashion
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlstreetfashion person preview](/preview_generator/images/sdxlstreetfashion_person.webp?raw=true) | ![sdxlstreetfashion place preview](/preview_generator/images/sdxlstreetfashion_place.webp?raw=true) | ![sdxlstreetfashion thing preview](/preview_generator/images/sdxlstreetfashion_thing.webp?raw=true) |
+
+## sdxlhorror
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlhorror person preview](/preview_generator/images/sdxlhorror_person.webp?raw=true) | ![sdxlhorror place preview](/preview_generator/images/sdxlhorror_place.webp?raw=true) | ![sdxlhorror thing preview](/preview_generator/images/sdxlhorror_thing.webp?raw=true) |
+
+## animation
+| person | place | thing |
+| --- | --- | --- |
+| ![animation person preview](/preview_generator/images/animation_person.webp?raw=true) | ![animation place preview](/preview_generator/images/animation_place.webp?raw=true) | ![animation thing preview](/preview_generator/images/animation_thing.webp?raw=true) |
+
+## disney
+| person | place | thing |
+| --- | --- | --- |
+| ![disney person preview](/preview_generator/images/disney_person.webp?raw=true) | ![disney place preview](/preview_generator/images/disney_place.webp?raw=true) | ![disney thing preview](/preview_generator/images/disney_thing.webp?raw=true) |
+
+## pixar
+| person | place | thing |
+| --- | --- | --- |
+| ![pixar person preview](/preview_generator/images/pixar_person.webp?raw=true) | ![pixar place preview](/preview_generator/images/pixar_place.webp?raw=true) | ![pixar thing preview](/preview_generator/images/pixar_thing.webp?raw=true) |
+
+## cyborgpunkportrait
+| person | place | thing |
+| --- | --- | --- |
+| ![cyborgpunkportrait person preview](/preview_generator/images/cyborgpunkportrait_person.webp?raw=true) | ![cyborgpunkportrait place preview](/preview_generator/images/cyborgpunkportrait_place.webp?raw=true) | ![cyborgpunkportrait thing preview](/preview_generator/images/cyborgpunkportrait_thing.webp?raw=true) |
+
+## movieposter
+| person | place | thing |
+| --- | --- | --- |
+| ![movieposter person preview](/preview_generator/images/movieposter_person.webp?raw=true) | ![movieposter place preview](/preview_generator/images/movieposter_place.webp?raw=true) | ![movieposter thing preview](/preview_generator/images/movieposter_thing.webp?raw=true) |
+
+## glitchart
+| person | place | thing |
+| --- | --- | --- |
+| ![glitchart person preview](/preview_generator/images/glitchart_person.webp?raw=true) | ![glitchart place preview](/preview_generator/images/glitchart_place.webp?raw=true) | ![glitchart thing preview](/preview_generator/images/glitchart_thing.webp?raw=true) |
+
+## oldvhs
+| person | place | thing |
+| --- | --- | --- |
+| ![oldvhs person preview](/preview_generator/images/oldvhs_person.webp?raw=true) | ![oldvhs place preview](/preview_generator/images/oldvhs_place.webp?raw=true) | ![oldvhs thing preview](/preview_generator/images/oldvhs_thing.webp?raw=true) |
+
+## pixelsorting
+| person | place | thing |
+| --- | --- | --- |
+| ![pixelsorting person preview](/preview_generator/images/pixelsorting_person.webp?raw=true) | ![pixelsorting place preview](/preview_generator/images/pixelsorting_place.webp?raw=true) | ![pixelsorting thing preview](/preview_generator/images/pixelsorting_thing.webp?raw=true) |
+
+## analogdistortion
+| person | place | thing |
+| --- | --- | --- |
+| ![analogdistortion person preview](/preview_generator/images/analogdistortion_person.webp?raw=true) | ![analogdistortion place preview](/preview_generator/images/analogdistortion_place.webp?raw=true) | ![analogdistortion thing preview](/preview_generator/images/analogdistortion_thing.webp?raw=true) |
+
