@@ -130,3 +130,23 @@
 | --- | --- | --- |
 | ![chinese pictogram person preview](/preview_generator/images/chinese_pictogram_person.webp?raw=true) | ![chinese pictogram place preview](/preview_generator/images/chinese_pictogram_place.webp?raw=true) | ![chinese pictogram thing preview](/preview_generator/images/chinese_pictogram_thing.webp?raw=true) |
 
+## graffiti
+| person | place | thing |
+| --- | --- | --- |
+| ![graffiti person preview](/preview_generator/images/graffiti_person.webp?raw=true) | ![graffiti place preview](/preview_generator/images/graffiti_place.webp?raw=true) | ![graffiti thing preview](/preview_generator/images/graffiti_thing.webp?raw=true) |
+
+## retrofuturistic
+| person | place | thing |
+| --- | --- | --- |
+| ![retrofuturistic person preview](/preview_generator/images/retrofuturistic_person.webp?raw=true) | ![retrofuturistic place preview](/preview_generator/images/retrofuturistic_place.webp?raw=true) | ![retrofuturistic thing preview](/preview_generator/images/retrofuturistic_thing.webp?raw=true) |
+
+## dystopian
+| person | place | thing |
+| --- | --- | --- |
+| ![dystopian person preview](/preview_generator/images/dystopian_person.webp?raw=true) | ![dystopian place preview](/preview_generator/images/dystopian_place.webp?raw=true) | ![dystopian thing preview](/preview_generator/images/dystopian_thing.webp?raw=true) |
+
+## sdxlcatgirlportrait
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlcatgirlportrait person preview](/preview_generator/images/sdxlcatgirlportrait_person.webp?raw=true) | ![sdxlcatgirlportrait place preview](/preview_generator/images/sdxlcatgirlportrait_place.webp?raw=true) | ![sdxlcatgirlportrait thing preview](/preview_generator/images/sdxlcatgirlportrait_thing.webp?raw=true) |
+
