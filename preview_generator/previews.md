@@ -1,5 +1,4 @@
 # Style Previews
----
 
 ## sdxl
 | person | place | thing |

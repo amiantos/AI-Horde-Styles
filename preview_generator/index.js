@@ -62,7 +62,7 @@ const main = async () => {
   });
 
   // clear previews.md file content
-  fs.writeFileSync("previews.md", "# Style Previews\n---\n\n");
+  fs.writeFileSync("previews.md", "# Style Previews\n\n");
 
   // to generate all styles
   for (const [styleName, styleContents] of Object.entries(styles)) {
