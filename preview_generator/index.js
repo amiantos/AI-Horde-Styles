@@ -23,7 +23,7 @@ const baseRequest = {
     n: 1,
     denoising_strength: 0.75,
     facefixer_strength: 0.75,
-    seed: "123456789"
+    seed: "3103106036"
   },
   censor_nsfw: false,
   shared: true,
