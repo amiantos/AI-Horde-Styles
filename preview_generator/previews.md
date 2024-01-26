@@ -185,3 +185,23 @@
 | --- | --- | --- |
 | ![mtgcard person preview](/preview_generator/images/mtgcard_person.webp?raw=true) | ![mtgcard place preview](/preview_generator/images/mtgcard_place.webp?raw=true) | ![mtgcard thing preview](/preview_generator/images/mtgcard_thing.webp?raw=true) |
 
+## baseballcard
+| person | place | thing |
+| --- | --- | --- |
+| ![baseballcard person preview](/preview_generator/images/baseballcard_person.webp?raw=true) | ![baseballcard place preview](/preview_generator/images/baseballcard_place.webp?raw=true) | ![baseballcard thing preview](/preview_generator/images/baseballcard_thing.webp?raw=true) |
+
+## greetingcard
+| person | place | thing |
+| --- | --- | --- |
+| ![greetingcard person preview](/preview_generator/images/greetingcard_person.webp?raw=true) | ![greetingcard place preview](/preview_generator/images/greetingcard_place.webp?raw=true) | ![greetingcard thing preview](/preview_generator/images/greetingcard_thing.webp?raw=true) |
+
+## postcard
+| person | place | thing |
+| --- | --- | --- |
+| ![postcard person preview](/preview_generator/images/postcard_person.webp?raw=true) | ![postcard place preview](/preview_generator/images/postcard_place.webp?raw=true) | ![postcard thing preview](/preview_generator/images/postcard_thing.webp?raw=true) |
+
+## goldenagecomics
+| person | place | thing |
+| --- | --- | --- |
+| ![goldenagecomics person preview](/preview_generator/images/goldenagecomics_person.webp?raw=true) | ![goldenagecomics place preview](/preview_generator/images/goldenagecomics_place.webp?raw=true) | ![goldenagecomics thing preview](/preview_generator/images/goldenagecomics_thing.webp?raw=true) |
+
