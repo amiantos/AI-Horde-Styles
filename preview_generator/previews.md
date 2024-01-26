@@ -160,3 +160,13 @@
 | --- | --- | --- |
 | ![floralceramic person preview](/preview_generator/images/floralceramic_person.webp?raw=true) | ![floralceramic place preview](/preview_generator/images/floralceramic_place.webp?raw=true) | ![floralceramic thing preview](/preview_generator/images/floralceramic_thing.webp?raw=true) |
 
+## sovietpropaganda
+| person | place | thing |
+| --- | --- | --- |
+| ![sovietpropaganda person preview](/preview_generator/images/sovietpropaganda_person.webp?raw=true) | ![sovietpropaganda place preview](/preview_generator/images/sovietpropaganda_place.webp?raw=true) | ![sovietpropaganda thing preview](/preview_generator/images/sovietpropaganda_thing.webp?raw=true) |
+
+## moderntarotcard
+| person | place | thing |
+| --- | --- | --- |
+| ![moderntarotcard person preview](/preview_generator/images/moderntarotcard_person.webp?raw=true) | ![moderntarotcard place preview](/preview_generator/images/moderntarotcard_place.webp?raw=true) | ![moderntarotcard thing preview](/preview_generator/images/moderntarotcard_thing.webp?raw=true) |
+
