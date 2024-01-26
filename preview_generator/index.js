@@ -7,7 +7,7 @@ const request = require("request");
 
 const baseRequest = {
   models: ["stable_diffusion"],
-  prompt: "a man drinking coffee at the kitchen table in the morning",
+  prompt: "",
   params: {
     steps: 30,
     post_processing: [],
@@ -20,7 +20,7 @@ const baseRequest = {
     tiling: false,
     karras: true,
     sampler_name: "k_dpmpp_sde",
-    n: 4,
+    n: 1,
     denoising_strength: 0.75,
     facefixer_strength: 0.75,
   },
@@ -34,6 +34,12 @@ const baseRequest = {
   slow_workers: false,
 };
 
+const promptSamples = {
+  "person": "a man drinking coffee at the kitchen table in the morning",
+  "place": "a view of the city of New York at night",
+  "thing": "a red car parked on the side of the road",
+}
+
 const main = async () => {
   console.log(
     "Lo! I am the preview generator. On a mountain of skulls, in the castle of pain, I sat on a throne of blood!"
@@ -43,7 +49,6 @@ const main = async () => {
   if (hordeAPIKey == null) {
     console.log("No AI Horde API key found. This will be slow...");
   }
-
   const models = await new Promise((resolve, reject) => {
     request.get(
       "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/main/stable_diffusion.json",
@@ -61,7 +66,7 @@ const main = async () => {
   //   await generateImagesForStyle(styleName, styleContents, models);
   // }
 
-  await generateImagesForStyle("isometric", styles["isometric"], models);
+  await generateImagesForStyle("celtpunk", styles["celtpunk"], models);
 
   console.log("I am finished!");
 };
@@ -107,33 +112,38 @@ async function generateImagesForStyle(styleName, styleContent, models) {
     styleRequest.params.tis = styleContent.tis;
   }
 
-  if (styleContent.prompt != null) {
-    // overwrite styleRequest.prompt with styleContent.prompt, replacing {p} with the original styleRequest.prompt and replace {np} with nothing
-    styleRequest.prompt = styleContent.prompt.replace("{p}", styleRequest.prompt).replace("{np}", "");
-  }
-
   if (modelBaseline.includes("stable_diffusion_xl")) {
     console.log("Using XL model, disabling hires_fix");
     styleRequest.params.hires_fix = false;
   }
 
-  console.log(styleRequest);
-
   console.log("Generating images for style: " + styleName);
-  const results = await generateImages(styleRequest);
 
-  var i = 0;
-  for (const result of results) {
-    await saveResult(result, styleName, i);
-    i++;
-    console.log("Image saved.");
+  // generate images for each promptSample
+  for (const [promptType, promptSample] of Object.entries(promptSamples)) {
+    const fileName = styleName.replace(/[^a-z0-9]/gi, '_').toLowerCase() + "_" + promptType + ".webp"
+    if (fs.existsSync("images/" + fileName)) {
+      console.log("Skipping " + promptType + " as it already exists.");
+      continue;
+    }
+
+    styleRequest.prompt = promptSample;
+    if (styleContent.prompt != null) {
+      styleRequest.prompt = styleContent.prompt.replace("{p}", styleRequest.prompt).replace("{np}", "");
+    }
+    console.log("Generating prompt: '" + styleRequest.prompt + "'");
+    const results = await generateImages(styleRequest);
+    for (const result of results) {
+      await saveResult(result, fileName);
+      console.log(promptType + " saved.");
+      break;
+    }
   }
 }
 
-async function saveResult(imageObject, style_name, i) {
+async function saveResult(imageObject, fileName) {
   const imageResponse = await fetch(imageObject.url);
   const imageBuffer = await imageResponse.arrayBuffer();
-  const fileName = "preview-" + style_name + "_" + i + ".webp";
   fs.writeFileSync("images/" + fileName, Buffer.from(imageBuffer));
 }
 
@@ -165,9 +175,10 @@ async function generateImages(request) {
   var results = [];
   for (const result of generationResult.generations) {
     if (result.censored) {
-      continue;
+      console.error("Censored image detected! Image discarded...");
+    } else {
+      results.push({ id: result.id, url: result.img });
     }
-    results.push({ id: result.id, url: result.img });
   }
 
   return results;
