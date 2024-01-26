@@ -91,3 +91,18 @@
 | --- | --- | --- |
 | ![chinese paper art person preview](/preview_generator/images/chinese_paper_art_person.webp?raw=true) | ![chinese paper art place preview](/preview_generator/images/chinese_paper_art_place.webp?raw=true) | ![chinese paper art thing preview](/preview_generator/images/chinese_paper_art_thing.webp?raw=true) |
 
+## flowers and sparks
+| person | place | thing |
+| --- | --- | --- |
+| ![flowers and sparks person preview](/preview_generator/images/flowers_and_sparks_person.webp?raw=true) | ![flowers and sparks place preview](/preview_generator/images/flowers_and_sparks_place.webp?raw=true) | ![flowers and sparks thing preview](/preview_generator/images/flowers_and_sparks_thing.webp?raw=true) |
+
+## chinese ink
+| person | place | thing |
+| --- | --- | --- |
+| ![chinese ink person preview](/preview_generator/images/chinese_ink_person.webp?raw=true) | ![chinese ink place preview](/preview_generator/images/chinese_ink_place.webp?raw=true) | ![chinese ink thing preview](/preview_generator/images/chinese_ink_thing.webp?raw=true) |
+
+## dragonpunk new year
+| person | place | thing |
+| --- | --- | --- |
+| ![dragonpunk new year person preview](/preview_generator/images/dragonpunk_new_year_person.webp?raw=true) | ![dragonpunk new year place preview](/preview_generator/images/dragonpunk_new_year_place.webp?raw=true) | ![dragonpunk new year thing preview](/preview_generator/images/dragonpunk_new_year_thing.webp?raw=true) |
+
