@@ -106,3 +106,18 @@
 | --- | --- | --- |
 | ![dragonpunk new year person preview](/preview_generator/images/dragonpunk_new_year_person.webp?raw=true) | ![dragonpunk new year place preview](/preview_generator/images/dragonpunk_new_year_place.webp?raw=true) | ![dragonpunk new year thing preview](/preview_generator/images/dragonpunk_new_year_thing.webp?raw=true) |
 
+## rich red
+| person | place | thing |
+| --- | --- | --- |
+| ![rich red person preview](/preview_generator/images/rich_red_person.webp?raw=true) | ![rich red place preview](/preview_generator/images/rich_red_place.webp?raw=true) | ![rich red thing preview](/preview_generator/images/rich_red_thing.webp?raw=true) |
+
+## dragon propaganda poster
+| person | place | thing |
+| --- | --- | --- |
+| ![dragon propaganda poster person preview](/preview_generator/images/dragon_propaganda_poster_person.webp?raw=true) | ![dragon propaganda poster place preview](/preview_generator/images/dragon_propaganda_poster_place.webp?raw=true) | ![dragon propaganda poster thing preview](/preview_generator/images/dragon_propaganda_poster_thing.webp?raw=true) |
+
+## chinese digital oil painting
+| person | place | thing |
+| --- | --- | --- |
+| ![chinese digital oil painting person preview](/preview_generator/images/chinese_digital_oil_painting_person.webp?raw=true) | ![chinese digital oil painting place preview](/preview_generator/images/chinese_digital_oil_painting_place.webp?raw=true) | ![chinese digital oil painting thing preview](/preview_generator/images/chinese_digital_oil_painting_thing.webp?raw=true) |
+
