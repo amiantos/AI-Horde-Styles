@@ -675,3 +675,118 @@
 | --- | --- | --- |
 | ![gempunk person preview](/preview_generator/images/gempunk_person.webp?raw=true) | ![gempunk place preview](/preview_generator/images/gempunk_place.webp?raw=true) | ![gempunk thing preview](/preview_generator/images/gempunk_thing.webp?raw=true) |
 
+## horrorpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![horrorpunk person preview](/preview_generator/images/horrorpunk_person.webp?raw=true) | ![horrorpunk place preview](/preview_generator/images/horrorpunk_place.webp?raw=true) | ![horrorpunk thing preview](/preview_generator/images/horrorpunk_thing.webp?raw=true) |
+
+## bonepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![bonepunk person preview](/preview_generator/images/bonepunk_person.webp?raw=true) | ![bonepunk place preview](/preview_generator/images/bonepunk_place.webp?raw=true) | ![bonepunk thing preview](/preview_generator/images/bonepunk_thing.webp?raw=true) |
+
+## oldegyptpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![oldegyptpunk person preview](/preview_generator/images/oldegyptpunk_person.webp?raw=true) | ![oldegyptpunk place preview](/preview_generator/images/oldegyptpunk_place.webp?raw=true) | ![oldegyptpunk thing preview](/preview_generator/images/oldegyptpunk_thing.webp?raw=true) |
+
+## vikingpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![vikingpunk person preview](/preview_generator/images/vikingpunk_person.webp?raw=true) | ![vikingpunk place preview](/preview_generator/images/vikingpunk_place.webp?raw=true) | ![vikingpunk thing preview](/preview_generator/images/vikingpunk_thing.webp?raw=true) |
+
+## gaslamppunk
+| person | place | thing |
+| --- | --- | --- |
+| ![gaslamppunk person preview](/preview_generator/images/gaslamppunk_person.webp?raw=true) | ![gaslamppunk place preview](/preview_generator/images/gaslamppunk_place.webp?raw=true) | ![gaslamppunk thing preview](/preview_generator/images/gaslamppunk_thing.webp?raw=true) |
+
+## atompunk
+| person | place | thing |
+| --- | --- | --- |
+| ![atompunk person preview](/preview_generator/images/atompunk_person.webp?raw=true) | ![atompunk place preview](/preview_generator/images/atompunk_place.webp?raw=true) | ![atompunk thing preview](/preview_generator/images/atompunk_thing.webp?raw=true) |
+
+## gothpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![gothpunk person preview](/preview_generator/images/gothpunk_person.webp?raw=true) | ![gothpunk place preview](/preview_generator/images/gothpunk_place.webp?raw=true) | ![gothpunk thing preview](/preview_generator/images/gothpunk_thing.webp?raw=true) |
+
+## circuitpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![circuitpunk person preview](/preview_generator/images/circuitpunk_person.webp?raw=true) | ![circuitpunk place preview](/preview_generator/images/circuitpunk_place.webp?raw=true) | ![circuitpunk thing preview](/preview_generator/images/circuitpunk_thing.webp?raw=true) |
+
+## nightmarepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![nightmarepunk person preview](/preview_generator/images/nightmarepunk_person.webp?raw=true) | ![nightmarepunk place preview](/preview_generator/images/nightmarepunk_place.webp?raw=true) | ![nightmarepunk thing preview](/preview_generator/images/nightmarepunk_thing.webp?raw=true) |
+
+## crystalpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![crystalpunk person preview](/preview_generator/images/crystalpunk_person.webp?raw=true) | ![crystalpunk place preview](/preview_generator/images/crystalpunk_place.webp?raw=true) | ![crystalpunk thing preview](/preview_generator/images/crystalpunk_thing.webp?raw=true) |
+
+## fantasypunk
+| person | place | thing |
+| --- | --- | --- |
+| ![fantasypunk person preview](/preview_generator/images/fantasypunk_person.webp?raw=true) | ![fantasypunk place preview](/preview_generator/images/fantasypunk_place.webp?raw=true) | ![fantasypunk thing preview](/preview_generator/images/fantasypunk_thing.webp?raw=true) |
+
+## perfect summer
+| person | place | thing |
+| --- | --- | --- |
+| ![perfect summer person preview](/preview_generator/images/perfect_summer_person.webp?raw=true) | ![perfect summer place preview](/preview_generator/images/perfect_summer_place.webp?raw=true) | ![perfect summer thing preview](/preview_generator/images/perfect_summer_thing.webp?raw=true) |
+
+## vintage postcard
+| person | place | thing |
+| --- | --- | --- |
+| ![vintage postcard person preview](/preview_generator/images/vintage_postcard_person.webp?raw=true) | ![vintage postcard place preview](/preview_generator/images/vintage_postcard_place.webp?raw=true) | ![vintage postcard thing preview](/preview_generator/images/vintage_postcard_thing.webp?raw=true) |
+
+## sunny day
+| person | place | thing |
+| --- | --- | --- |
+| ![sunny day person preview](/preview_generator/images/sunny_day_person.webp?raw=true) | ![sunny day place preview](/preview_generator/images/sunny_day_place.webp?raw=true) | ![sunny day thing preview](/preview_generator/images/sunny_day_thing.webp?raw=true) |
+
+## golden light
+| person | place | thing |
+| --- | --- | --- |
+| ![golden light person preview](/preview_generator/images/golden_light_person.webp?raw=true) | ![golden light place preview](/preview_generator/images/golden_light_place.webp?raw=true) | ![golden light thing preview](/preview_generator/images/golden_light_thing.webp?raw=true) |
+
+## backstage
+| person | place | thing |
+| --- | --- | --- |
+| ![backstage person preview](/preview_generator/images/backstage_person.webp?raw=true) | ![backstage place preview](/preview_generator/images/backstage_place.webp?raw=true) | ![backstage thing preview](/preview_generator/images/backstage_thing.webp?raw=true) |
+
+## generic scifi
+| person | place | thing |
+| --- | --- | --- |
+| ![generic scifi person preview](/preview_generator/images/generic_scifi_person.webp?raw=true) | ![generic scifi place preview](/preview_generator/images/generic_scifi_place.webp?raw=true) | ![generic scifi thing preview](/preview_generator/images/generic_scifi_thing.webp?raw=true) |
+
+## high fantasy
+| person | place | thing |
+| --- | --- | --- |
+| ![high fantasy person preview](/preview_generator/images/high_fantasy_person.webp?raw=true) | ![high fantasy place preview](/preview_generator/images/high_fantasy_place.webp?raw=true) | ![high fantasy thing preview](/preview_generator/images/high_fantasy_thing.webp?raw=true) |
+
+## 19th century painting
+| person | place | thing |
+| --- | --- | --- |
+| ![19th century painting person preview](/preview_generator/images/19th_century_painting_person.webp?raw=true) | ![19th century painting place preview](/preview_generator/images/19th_century_painting_place.webp?raw=true) | ![19th century painting thing preview](/preview_generator/images/19th_century_painting_thing.webp?raw=true) |
+
+## butter
+| person | place | thing |
+| --- | --- | --- |
+| ![butter person preview](/preview_generator/images/butter_person.webp?raw=true) | ![butter place preview](/preview_generator/images/butter_place.webp?raw=true) | ![butter thing preview](/preview_generator/images/butter_thing.webp?raw=true) |
+
+## terror ink
+| person | place | thing |
+| --- | --- | --- |
+| ![terror ink person preview](/preview_generator/images/terror_ink_person.webp?raw=true) | ![terror ink place preview](/preview_generator/images/terror_ink_place.webp?raw=true) | ![terror ink thing preview](/preview_generator/images/terror_ink_thing.webp?raw=true) |
+
+## nightmare
+| person | place | thing |
+| --- | --- | --- |
+| ![nightmare person preview](/preview_generator/images/nightmare_person.webp?raw=true) | ![nightmare place preview](/preview_generator/images/nightmare_place.webp?raw=true) | ![nightmare thing preview](/preview_generator/images/nightmare_thing.webp?raw=true) |
+
+## abandoned
+| person | place | thing |
+| --- | --- | --- |
+| ![abandoned person preview](/preview_generator/images/abandoned_person.webp?raw=true) | ![abandoned place preview](/preview_generator/images/abandoned_place.webp?raw=true) | ![abandoned thing preview](/preview_generator/images/abandoned_thing.webp?raw=true) |
+
