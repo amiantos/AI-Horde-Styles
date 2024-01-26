@@ -146,7 +146,7 @@ async function generateImagesForStyle(styleName, styleContent, models) {
   // write style to previews.md
   fs.appendFileSync(
     "previews.md",
-    `## ${styleName}\n| person | place | thing |\n| --- | --- | --- |\n| ![${styleName} person preview](/preview_generator/images/${safeStyleName}_person.webp?raw=true) | ![${styleName} place preview](/preview_generator/images/${safeStyleName}_place.webp?raw=true) | ![${styleName} thing preview](/preview_generator/images/${safeStyleName}_thing.webp?raw=true) |\n`
+    `## ${styleName}\n| person | place | thing |\n| --- | --- | --- |\n| ![${styleName} person preview](/preview_generator/images/${safeStyleName}_person.webp?raw=true) | ![${styleName} place preview](/preview_generator/images/${safeStyleName}_place.webp?raw=true) | ![${styleName} thing preview](/preview_generator/images/${safeStyleName}_thing.webp?raw=true) |\n\n`
   );
 }
 
