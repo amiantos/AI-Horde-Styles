@@ -360,3 +360,18 @@
 | --- | --- | --- |
 | ![analogdistortion person preview](/preview_generator/images/analogdistortion_person.webp?raw=true) | ![analogdistortion place preview](/preview_generator/images/analogdistortion_place.webp?raw=true) | ![analogdistortion thing preview](/preview_generator/images/analogdistortion_thing.webp?raw=true) |
 
+## gothichorrorai
+| person | place | thing |
+| --- | --- | --- |
+| ![gothichorrorai person preview](/preview_generator/images/gothichorrorai_person.webp?raw=true) | ![gothichorrorai place preview](/preview_generator/images/gothichorrorai_place.webp?raw=true) | ![gothichorrorai thing preview](/preview_generator/images/gothichorrorai_thing.webp?raw=true) |
+
+## tentaclehorrorai
+| person | place | thing |
+| --- | --- | --- |
+| ![tentaclehorrorai person preview](/preview_generator/images/tentaclehorrorai_person.webp?raw=true) | ![tentaclehorrorai place preview](/preview_generator/images/tentaclehorrorai_place.webp?raw=true) | ![tentaclehorrorai thing preview](/preview_generator/images/tentaclehorrorai_thing.webp?raw=true) |
+
+## reelhorror
+| person | place | thing |
+| --- | --- | --- |
+| ![reelhorror person preview](/preview_generator/images/reelhorror_person.webp?raw=true) | ![reelhorror place preview](/preview_generator/images/reelhorror_place.webp?raw=true) | ![reelhorror thing preview](/preview_generator/images/reelhorror_thing.webp?raw=true) |
+
