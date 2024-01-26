@@ -35,10 +35,10 @@ const baseRequest = {
 };
 
 const promptSamples = {
-  "person": "a man drinking coffee at the kitchen table in the morning",
-  "place": "a view of the city of New York at night",
-  "thing": "a red car parked on the side of the road",
-}
+  person: "a man drinking coffee at the kitchen table in the morning",
+  place: "a view of the city of New York at night",
+  thing: "a red car parked on the side of the road",
+};
 
 const main = async () => {
   console.log(
@@ -60,13 +60,21 @@ const main = async () => {
       }
     );
   });
-  
-  // to generate all styles
-  // for (const [styleName, styleContents] of Object.entries(styles)) {
-  //   await generateImagesForStyle(styleName, styleContents, models);
-  // }
 
-  await generateImagesForStyle("celtpunk", styles["celtpunk"], models);
+  // clear previews.md file content
+  fs.writeFileSync("previews.md", "# Style Previews\n---\n\n");
+
+  // to generate all styles
+  var limit = 5;
+  for (const [styleName, styleContents] of Object.entries(styles)) {
+    await generateImagesForStyle(styleName, styleContents, models);
+    limit--;
+    if (limit <= 0) {
+      break;
+    }
+  }
+
+  // await generateImagesForStyle("celtpunk", styles["celtpunk"], models);
 
   console.log("I am finished!");
 };
@@ -77,11 +85,11 @@ async function generateImagesForStyle(styleName, styleContent, models) {
     console.log("Invalid model: " + styleContent.model);
     return;
   }
-  
+
   // Get model baseline to determine configuration
   const model = models[styleContent.model];
   const modelBaseline = model.baseline;
-  
+
   console.log("Generating preview for style: " + styleName);
 
   console.log(styleContent);
@@ -118,10 +126,11 @@ async function generateImagesForStyle(styleName, styleContent, models) {
   }
 
   console.log("Generating images for style: " + styleName);
+  const safeStyleName = styleName.replace(/[^a-z0-9]/gi, "_").toLowerCase();
 
   // generate images for each promptSample
   for (const [promptType, promptSample] of Object.entries(promptSamples)) {
-    const fileName = styleName.replace(/[^a-z0-9]/gi, '_').toLowerCase() + "_" + promptType + ".webp"
+    const fileName = safeStyleName + "_" + promptType + ".webp";
     if (fs.existsSync("images/" + fileName)) {
       console.log("Skipping " + promptType + " as it already exists.");
       continue;
@@ -129,7 +138,9 @@ async function generateImagesForStyle(styleName, styleContent, models) {
 
     styleRequest.prompt = promptSample;
     if (styleContent.prompt != null) {
-      styleRequest.prompt = styleContent.prompt.replace("{p}", styleRequest.prompt).replace("{np}", "");
+      styleRequest.prompt = styleContent.prompt
+        .replace("{p}", styleRequest.prompt)
+        .replace("{np}", "");
     }
     console.log("Generating prompt: '" + styleRequest.prompt + "'");
     const results = await generateImages(styleRequest);
@@ -139,6 +150,12 @@ async function generateImagesForStyle(styleName, styleContent, models) {
       break;
     }
   }
+
+  // write style to previews.md
+  fs.appendFileSync(
+    "previews.md",
+    `## ${styleName}\n| person | place | thing |\n| --- | --- | --- |\n| ![${styleName} person preview](/preview_generator/images/${safeStyleName}_person.webp?raw=true) | ![${styleName} place preview](/preview_generator/images/${safeStyleName}_place.webp?raw=true) | ![${styleName} thing preview](/preview_generator/images/${safeStyleName}_thing.webp?raw=true) |\n`
+  );
 }
 
 async function saveResult(imageObject, fileName) {
@@ -156,11 +173,25 @@ async function generateImages(request) {
 
   // start the generation of an image with the given payload
   const generation = await ai_horde.postAsyncImageGenerate(request);
-  console.log("Generation Submitted, ID: " + generation.id + ", kudos cost: " + generation.kudos);
+  console.log(
+    "Generation Submitted, ID: " +
+      generation.id +
+      ", kudos cost: " +
+      generation.kudos
+  );
 
   while (true) {
     const check = await ai_horde.getImageGenerationCheck(generation.id);
-    console.log("Q#:" + check.queue_position + " W:" + check.waiting + " P:" + check.processing + " F:" + check.finished);
+    console.log(
+      "Q#:" +
+        check.queue_position +
+        " W:" +
+        check.waiting +
+        " P:" +
+        check.processing +
+        " F:" +
+        check.finished
+    );
     if (check.done) {
       console.log("Generation complete.");
       break;
