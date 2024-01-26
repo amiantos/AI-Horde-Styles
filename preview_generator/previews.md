@@ -635,3 +635,43 @@
 | --- | --- | --- |
 | ![totempunk person preview](/preview_generator/images/totempunk_person.webp?raw=true) | ![totempunk place preview](/preview_generator/images/totempunk_place.webp?raw=true) | ![totempunk thing preview](/preview_generator/images/totempunk_thing.webp?raw=true) |
 
+## samuraipunk
+| person | place | thing |
+| --- | --- | --- |
+| ![samuraipunk person preview](/preview_generator/images/samuraipunk_person.webp?raw=true) | ![samuraipunk place preview](/preview_generator/images/samuraipunk_place.webp?raw=true) | ![samuraipunk thing preview](/preview_generator/images/samuraipunk_thing.webp?raw=true) |
+
+## zulupunk
+| person | place | thing |
+| --- | --- | --- |
+| ![zulupunk person preview](/preview_generator/images/zulupunk_person.webp?raw=true) | ![zulupunk place preview](/preview_generator/images/zulupunk_place.webp?raw=true) | ![zulupunk thing preview](/preview_generator/images/zulupunk_thing.webp?raw=true) |
+
+## teslapunk
+| person | place | thing |
+| --- | --- | --- |
+| ![teslapunk person preview](/preview_generator/images/teslapunk_person.webp?raw=true) | ![teslapunk place preview](/preview_generator/images/teslapunk_place.webp?raw=true) | ![teslapunk thing preview](/preview_generator/images/teslapunk_thing.webp?raw=true) |
+
+## valvepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![valvepunk person preview](/preview_generator/images/valvepunk_person.webp?raw=true) | ![valvepunk place preview](/preview_generator/images/valvepunk_place.webp?raw=true) | ![valvepunk thing preview](/preview_generator/images/valvepunk_thing.webp?raw=true) |
+
+## infernalpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![infernalpunk person preview](/preview_generator/images/infernalpunk_person.webp?raw=true) | ![infernalpunk place preview](/preview_generator/images/infernalpunk_place.webp?raw=true) | ![infernalpunk thing preview](/preview_generator/images/infernalpunk_thing.webp?raw=true) |
+
+## solarpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![solarpunk person preview](/preview_generator/images/solarpunk_person.webp?raw=true) | ![solarpunk place preview](/preview_generator/images/solarpunk_place.webp?raw=true) | ![solarpunk thing preview](/preview_generator/images/solarpunk_thing.webp?raw=true) |
+
+## stonepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![stonepunk person preview](/preview_generator/images/stonepunk_person.webp?raw=true) | ![stonepunk place preview](/preview_generator/images/stonepunk_place.webp?raw=true) | ![stonepunk thing preview](/preview_generator/images/stonepunk_thing.webp?raw=true) |
+
+## gempunk
+| person | place | thing |
+| --- | --- | --- |
+| ![gempunk person preview](/preview_generator/images/gempunk_person.webp?raw=true) | ![gempunk place preview](/preview_generator/images/gempunk_place.webp?raw=true) | ![gempunk thing preview](/preview_generator/images/gempunk_thing.webp?raw=true) |
+
