@@ -500,3 +500,53 @@
 | --- | --- | --- |
 | ![mongolpunk person preview](/preview_generator/images/mongolpunk_person.webp?raw=true) | ![mongolpunk place preview](/preview_generator/images/mongolpunk_place.webp?raw=true) | ![mongolpunk thing preview](/preview_generator/images/mongolpunk_thing.webp?raw=true) |
 
+## musketpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![musketpunk person preview](/preview_generator/images/musketpunk_person.webp?raw=true) | ![musketpunk place preview](/preview_generator/images/musketpunk_place.webp?raw=true) | ![musketpunk thing preview](/preview_generator/images/musketpunk_thing.webp?raw=true) |
+
+## absinthepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![absinthepunk person preview](/preview_generator/images/absinthepunk_person.webp?raw=true) | ![absinthepunk place preview](/preview_generator/images/absinthepunk_place.webp?raw=true) | ![absinthepunk thing preview](/preview_generator/images/absinthepunk_thing.webp?raw=true) |
+
+## cattlepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![cattlepunk person preview](/preview_generator/images/cattlepunk_person.webp?raw=true) | ![cattlepunk place preview](/preview_generator/images/cattlepunk_place.webp?raw=true) | ![cattlepunk thing preview](/preview_generator/images/cattlepunk_thing.webp?raw=true) |
+
+## circuspunk
+| person | place | thing |
+| --- | --- | --- |
+| ![circuspunk person preview](/preview_generator/images/circuspunk_person.webp?raw=true) | ![circuspunk place preview](/preview_generator/images/circuspunk_place.webp?raw=true) | ![circuspunk thing preview](/preview_generator/images/circuspunk_thing.webp?raw=true) |
+
+## aetherpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![aetherpunk person preview](/preview_generator/images/aetherpunk_person.webp?raw=true) | ![aetherpunk place preview](/preview_generator/images/aetherpunk_place.webp?raw=true) | ![aetherpunk thing preview](/preview_generator/images/aetherpunk_thing.webp?raw=true) |
+
+## potatopunk
+| person | place | thing |
+| --- | --- | --- |
+| ![potatopunk person preview](/preview_generator/images/potatopunk_person.webp?raw=true) | ![potatopunk place preview](/preview_generator/images/potatopunk_place.webp?raw=true) | ![potatopunk thing preview](/preview_generator/images/potatopunk_thing.webp?raw=true) |
+
+## coalpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![coalpunk person preview](/preview_generator/images/coalpunk_person.webp?raw=true) | ![coalpunk place preview](/preview_generator/images/coalpunk_place.webp?raw=true) | ![coalpunk thing preview](/preview_generator/images/coalpunk_thing.webp?raw=true) |
+
+## alchemypunk
+| person | place | thing |
+| --- | --- | --- |
+| ![alchemypunk person preview](/preview_generator/images/alchemypunk_person.webp?raw=true) | ![alchemypunk place preview](/preview_generator/images/alchemypunk_place.webp?raw=true) | ![alchemypunk thing preview](/preview_generator/images/alchemypunk_thing.webp?raw=true) |
+
+## gothicpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![gothicpunk person preview](/preview_generator/images/gothicpunk_person.webp?raw=true) | ![gothicpunk place preview](/preview_generator/images/gothicpunk_place.webp?raw=true) | ![gothicpunk thing preview](/preview_generator/images/gothicpunk_thing.webp?raw=true) |
+
+## witchpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![witchpunk person preview](/preview_generator/images/witchpunk_person.webp?raw=true) | ![witchpunk place preview](/preview_generator/images/witchpunk_place.webp?raw=true) | ![witchpunk thing preview](/preview_generator/images/witchpunk_thing.webp?raw=true) |
+
