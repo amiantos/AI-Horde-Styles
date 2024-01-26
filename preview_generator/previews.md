@@ -2,4 +2,4 @@
 ---
 
 ## celtpunk
-|![celtpunk person preview](/images/celtpunk_person.webp?raw=true)|![celtpunk place preview](/images/celtpunk_place.webp?raw=true)|![celtpunk thing preview](/images/celtpunk_thing.webp?raw=true)|
+|![celtpunk person preview](/preview_generator/images/celtpunk_person.webp?raw=true)|![celtpunk place preview](/images/celtpunk_place.webp?raw=true)|![celtpunk thing preview](/preview_generator/images/celtpunk_thing.webp?raw=true)|
