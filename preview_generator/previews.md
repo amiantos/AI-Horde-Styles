@@ -155,3 +155,23 @@
 | --- | --- | --- |
 | ![neonnoir person preview](/preview_generator/images/neonnoir_person.webp?raw=true) | ![neonnoir place preview](/preview_generator/images/neonnoir_place.webp?raw=true) | ![neonnoir thing preview](/preview_generator/images/neonnoir_thing.webp?raw=true) |
 
+## floralceramic
+| person | place | thing |
+| --- | --- | --- |
+| ![floralceramic person preview](/preview_generator/images/floralceramic_person.webp?raw=true) | ![floralceramic place preview](/preview_generator/images/floralceramic_place.webp?raw=true) | ![floralceramic thing preview](/preview_generator/images/floralceramic_thing.webp?raw=true) |
+
+## sovietpropaganda
+| person | place | thing |
+| --- | --- | --- |
+| ![sovietpropaganda person preview](/preview_generator/images/sovietpropaganda_person.webp?raw=true) | ![sovietpropaganda place preview](/preview_generator/images/sovietpropaganda_place.webp?raw=true) | ![sovietpropaganda thing preview](/preview_generator/images/sovietpropaganda_thing.webp?raw=true) |
+
+## moderntarotcard
+| person | place | thing |
+| --- | --- | --- |
+| ![moderntarotcard person preview](/preview_generator/images/moderntarotcard_person.webp?raw=true) | ![moderntarotcard place preview](/preview_generator/images/moderntarotcard_place.webp?raw=true) | ![moderntarotcard thing preview](/preview_generator/images/moderntarotcard_thing.webp?raw=true) |
+
+## antiquetarotcard
+| person | place | thing |
+| --- | --- | --- |
+| ![antiquetarotcard person preview](/preview_generator/images/antiquetarotcard_person.webp?raw=true) | ![antiquetarotcard place preview](/preview_generator/images/antiquetarotcard_place.webp?raw=true) | ![antiquetarotcard thing preview](/preview_generator/images/antiquetarotcard_thing.webp?raw=true) |
+
