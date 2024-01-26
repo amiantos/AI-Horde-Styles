@@ -15,3 +15,18 @@
 | person | place | thing |
 | --- | --- | --- |
 | ![isometric person preview](/preview_generator/images/isometric_person.webp?raw=true) | ![isometric place preview](/preview_generator/images/isometric_place.webp?raw=true) | ![isometric thing preview](/preview_generator/images/isometric_thing.webp?raw=true) |
+
+## lowpoly
+| person | place | thing |
+| --- | --- | --- |
+| ![lowpoly person preview](/preview_generator/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/preview_generator/images/lowpoly_place.webp?raw=true) | ![lowpoly thing preview](/preview_generator/images/lowpoly_thing.webp?raw=true) |
+
+## parchment
+| person | place | thing |
+| --- | --- | --- |
+| ![parchment person preview](/preview_generator/images/parchment_person.webp?raw=true) | ![parchment place preview](/preview_generator/images/parchment_place.webp?raw=true) | ![parchment thing preview](/preview_generator/images/parchment_thing.webp?raw=true) |
+
+## sdxlchibis
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlchibis person preview](/preview_generator/images/sdxlchibis_person.webp?raw=true) | ![sdxlchibis place preview](/preview_generator/images/sdxlchibis_place.webp?raw=true) | ![sdxlchibis thing preview](/preview_generator/images/sdxlchibis_thing.webp?raw=true) |
