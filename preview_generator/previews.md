@@ -71,3 +71,23 @@
 | --- | --- | --- |
 | ![sdxl-landscape person preview](/preview_generator/images/sdxl_landscape_person.webp?raw=true) | ![sdxl-landscape place preview](/preview_generator/images/sdxl_landscape_place.webp?raw=true) | ![sdxl-landscape thing preview](/preview_generator/images/sdxl_landscape_thing.webp?raw=true) |
 
+## sdxl-widescreen
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxl-widescreen person preview](/preview_generator/images/sdxl_widescreen_person.webp?raw=true) | ![sdxl-widescreen place preview](/preview_generator/images/sdxl_widescreen_place.webp?raw=true) | ![sdxl-widescreen thing preview](/preview_generator/images/sdxl_widescreen_thing.webp?raw=true) |
+
+## sdxl-cinematic
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxl-cinematic person preview](/preview_generator/images/sdxl_cinematic_person.webp?raw=true) | ![sdxl-cinematic place preview](/preview_generator/images/sdxl_cinematic_place.webp?raw=true) | ![sdxl-cinematic thing preview](/preview_generator/images/sdxl_cinematic_thing.webp?raw=true) |
+
+## chinese wash painting
+| person | place | thing |
+| --- | --- | --- |
+| ![chinese wash painting person preview](/preview_generator/images/chinese_wash_painting_person.webp?raw=true) | ![chinese wash painting place preview](/preview_generator/images/chinese_wash_painting_place.webp?raw=true) | ![chinese wash painting thing preview](/preview_generator/images/chinese_wash_painting_thing.webp?raw=true) |
+
+## chinese paper art
+| person | place | thing |
+| --- | --- | --- |
+| ![chinese paper art person preview](/preview_generator/images/chinese_paper_art_person.webp?raw=true) | ![chinese paper art place preview](/preview_generator/images/chinese_paper_art_place.webp?raw=true) | ![chinese paper art thing preview](/preview_generator/images/chinese_paper_art_thing.webp?raw=true) |
+
