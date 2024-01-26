@@ -23,6 +23,7 @@ const baseRequest = {
     n: 1,
     denoising_strength: 0.75,
     facefixer_strength: 0.75,
+    seed: "123456789"
   },
   censor_nsfw: false,
   shared: true,
@@ -35,8 +36,8 @@ const baseRequest = {
 };
 
 const promptSamples = {
-  person: "a man drinking coffee at the kitchen table in the morning",
-  place: "a view of the city of New York at night",
+  person: "a man drinking coffee at a kitchen table in the morning",
+  place: "a street level view of New York City at night",
   thing: "a red car parked on the side of the road",
 };
 
