@@ -295,3 +295,23 @@
 | --- | --- | --- |
 | ![watercolorscenery person preview](/preview_generator/images/watercolorscenery_person.webp?raw=true) | ![watercolorscenery place preview](/preview_generator/images/watercolorscenery_place.webp?raw=true) | ![watercolorscenery thing preview](/preview_generator/images/watercolorscenery_thing.webp?raw=true) |
 
+## pencilscribbles
+| person | place | thing |
+| --- | --- | --- |
+| ![pencilscribbles person preview](/preview_generator/images/pencilscribbles_person.webp?raw=true) | ![pencilscribbles place preview](/preview_generator/images/pencilscribbles_place.webp?raw=true) | ![pencilscribbles thing preview](/preview_generator/images/pencilscribbles_thing.webp?raw=true) |
+
+## sdxlchibis
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlchibis person preview](/preview_generator/images/sdxlchibis_person.webp?raw=true) | ![sdxlchibis place preview](/preview_generator/images/sdxlchibis_place.webp?raw=true) | ![sdxlchibis thing preview](/preview_generator/images/sdxlchibis_thing.webp?raw=true) |
+
+## sdxlstreetfashion
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlstreetfashion person preview](/preview_generator/images/sdxlstreetfashion_person.webp?raw=true) | ![sdxlstreetfashion place preview](/preview_generator/images/sdxlstreetfashion_place.webp?raw=true) | ![sdxlstreetfashion thing preview](/preview_generator/images/sdxlstreetfashion_thing.webp?raw=true) |
+
+## sdxlhorror
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlhorror person preview](/preview_generator/images/sdxlhorror_person.webp?raw=true) | ![sdxlhorror place preview](/preview_generator/images/sdxlhorror_place.webp?raw=true) | ![sdxlhorror thing preview](/preview_generator/images/sdxlhorror_thing.webp?raw=true) |
+
