@@ -400,3 +400,33 @@
 | --- | --- | --- |
 | ![dreadhorror person preview](/preview_generator/images/dreadhorror_person.webp?raw=true) | ![dreadhorror place preview](/preview_generator/images/dreadhorror_place.webp?raw=true) | ![dreadhorror thing preview](/preview_generator/images/dreadhorror_thing.webp?raw=true) |
 
+## vibrant halloween
+| person | place | thing |
+| --- | --- | --- |
+| ![vibrant halloween person preview](/preview_generator/images/vibrant_halloween_person.webp?raw=true) | ![vibrant halloween place preview](/preview_generator/images/vibrant_halloween_place.webp?raw=true) | ![vibrant halloween thing preview](/preview_generator/images/vibrant_halloween_thing.webp?raw=true) |
+
+## glitch horror
+| person | place | thing |
+| --- | --- | --- |
+| ![glitch horror person preview](/preview_generator/images/glitch_horror_person.webp?raw=true) | ![glitch horror place preview](/preview_generator/images/glitch_horror_place.webp?raw=true) | ![glitch horror thing preview](/preview_generator/images/glitch_horror_thing.webp?raw=true) |
+
+## monstrous burton
+| person | place | thing |
+| --- | --- | --- |
+| ![monstrous burton person preview](/preview_generator/images/monstrous_burton_person.webp?raw=true) | ![monstrous burton place preview](/preview_generator/images/monstrous_burton_place.webp?raw=true) | ![monstrous burton thing preview](/preview_generator/images/monstrous_burton_thing.webp?raw=true) |
+
+## spooky gouache
+| person | place | thing |
+| --- | --- | --- |
+| ![spooky gouache person preview](/preview_generator/images/spooky_gouache_person.webp?raw=true) | ![spooky gouache place preview](/preview_generator/images/spooky_gouache_place.webp?raw=true) | ![spooky gouache thing preview](/preview_generator/images/spooky_gouache_thing.webp?raw=true) |
+
+## spooky horror
+| person | place | thing |
+| --- | --- | --- |
+| ![spooky horror person preview](/preview_generator/images/spooky_horror_person.webp?raw=true) | ![spooky horror place preview](/preview_generator/images/spooky_horror_place.webp?raw=true) | ![spooky horror thing preview](/preview_generator/images/spooky_horror_thing.webp?raw=true) |
+
+## crungus revenge
+| person | place | thing |
+| --- | --- | --- |
+| ![crungus revenge person preview](/preview_generator/images/crungus_revenge_person.webp?raw=true) | ![crungus revenge place preview](/preview_generator/images/crungus_revenge_place.webp?raw=true) | ![crungus revenge thing preview](/preview_generator/images/crungus_revenge_thing.webp?raw=true) |
+
