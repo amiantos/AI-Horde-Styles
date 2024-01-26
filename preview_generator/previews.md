@@ -430,3 +430,73 @@
 | --- | --- | --- |
 | ![crungus revenge person preview](/preview_generator/images/crungus_revenge_person.webp?raw=true) | ![crungus revenge place preview](/preview_generator/images/crungus_revenge_place.webp?raw=true) | ![crungus revenge thing preview](/preview_generator/images/crungus_revenge_thing.webp?raw=true) |
 
+## impressionist horror comic
+| person | place | thing |
+| --- | --- | --- |
+| ![impressionist horror comic person preview](/preview_generator/images/impressionist_horror_comic_person.webp?raw=true) | ![impressionist horror comic place preview](/preview_generator/images/impressionist_horror_comic_place.webp?raw=true) | ![impressionist horror comic thing preview](/preview_generator/images/impressionist_horror_comic_thing.webp?raw=true) |
+
+## impressionist oil painting
+| person | place | thing |
+| --- | --- | --- |
+| ![impressionist oil painting person preview](/preview_generator/images/impressionist_oil_painting_person.webp?raw=true) | ![impressionist oil painting place preview](/preview_generator/images/impressionist_oil_painting_place.webp?raw=true) | ![impressionist oil painting thing preview](/preview_generator/images/impressionist_oil_painting_thing.webp?raw=true) |
+
+## flat simple cartoon
+| person | place | thing |
+| --- | --- | --- |
+| ![flat simple cartoon person preview](/preview_generator/images/flat_simple_cartoon_person.webp?raw=true) | ![flat simple cartoon place preview](/preview_generator/images/flat_simple_cartoon_place.webp?raw=true) | ![flat simple cartoon thing preview](/preview_generator/images/flat_simple_cartoon_thing.webp?raw=true) |
+
+## color splash
+| person | place | thing |
+| --- | --- | --- |
+| ![color splash person preview](/preview_generator/images/color_splash_person.webp?raw=true) | ![color splash place preview](/preview_generator/images/color_splash_place.webp?raw=true) | ![color splash thing preview](/preview_generator/images/color_splash_thing.webp?raw=true) |
+
+## parchment
+| person | place | thing |
+| --- | --- | --- |
+| ![parchment person preview](/preview_generator/images/parchment_person.webp?raw=true) | ![parchment place preview](/preview_generator/images/parchment_place.webp?raw=true) | ![parchment thing preview](/preview_generator/images/parchment_thing.webp?raw=true) |
+
+## emoji 3d
+| person | place | thing |
+| --- | --- | --- |
+| ![emoji 3d person preview](/preview_generator/images/emoji_3d_person.webp?raw=true) | ![emoji 3d place preview](/preview_generator/images/emoji_3d_place.webp?raw=true) | ![emoji 3d thing preview](/preview_generator/images/emoji_3d_thing.webp?raw=true) |
+
+## emoji 2d
+| person | place | thing |
+| --- | --- | --- |
+| ![emoji 2d person preview](/preview_generator/images/emoji_2d_person.webp?raw=true) | ![emoji 2d place preview](/preview_generator/images/emoji_2d_place.webp?raw=true) | ![emoji 2d thing preview](/preview_generator/images/emoji_2d_thing.webp?raw=true) |
+
+## fustercluck 3d
+| person | place | thing |
+| --- | --- | --- |
+| ![fustercluck 3d person preview](/preview_generator/images/fustercluck_3d_person.webp?raw=true) | ![fustercluck 3d place preview](/preview_generator/images/fustercluck_3d_place.webp?raw=true) | ![fustercluck 3d thing preview](/preview_generator/images/fustercluck_3d_thing.webp?raw=true) |
+
+## vector illustration
+| person | place | thing |
+| --- | --- | --- |
+| ![vector illustration person preview](/preview_generator/images/vector_illustration_person.webp?raw=true) | ![vector illustration place preview](/preview_generator/images/vector_illustration_place.webp?raw=true) | ![vector illustration thing preview](/preview_generator/images/vector_illustration_thing.webp?raw=true) |
+
+## piratepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![piratepunk person preview](/preview_generator/images/piratepunk_person.webp?raw=true) | ![piratepunk place preview](/preview_generator/images/piratepunk_place.webp?raw=true) | ![piratepunk thing preview](/preview_generator/images/piratepunk_thing.webp?raw=true) |
+
+## lunarpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![lunarpunk person preview](/preview_generator/images/lunarpunk_person.webp?raw=true) | ![lunarpunk place preview](/preview_generator/images/lunarpunk_place.webp?raw=true) | ![lunarpunk thing preview](/preview_generator/images/lunarpunk_thing.webp?raw=true) |
+
+## celtpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![celtpunk person preview](/preview_generator/images/celtpunk_person.webp?raw=true) | ![celtpunk place preview](/preview_generator/images/celtpunk_place.webp?raw=true) | ![celtpunk thing preview](/preview_generator/images/celtpunk_thing.webp?raw=true) |
+
+## toxicpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![toxicpunk person preview](/preview_generator/images/toxicpunk_person.webp?raw=true) | ![toxicpunk place preview](/preview_generator/images/toxicpunk_place.webp?raw=true) | ![toxicpunk thing preview](/preview_generator/images/toxicpunk_thing.webp?raw=true) |
+
+## mongolpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![mongolpunk person preview](/preview_generator/images/mongolpunk_person.webp?raw=true) | ![mongolpunk place preview](/preview_generator/images/mongolpunk_place.webp?raw=true) | ![mongolpunk thing preview](/preview_generator/images/mongolpunk_thing.webp?raw=true) |
+
