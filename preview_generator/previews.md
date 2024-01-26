@@ -56,3 +56,18 @@
 | --- | --- | --- |
 | ![sdxl-portrait person preview](/preview_generator/images/sdxl_portrait_person.webp?raw=true) | ![sdxl-portrait place preview](/preview_generator/images/sdxl_portrait_place.webp?raw=true) | ![sdxl-portrait thing preview](/preview_generator/images/sdxl_portrait_thing.webp?raw=true) |
 
+## sdxl-photo
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxl-photo person preview](/preview_generator/images/sdxl_photo_person.webp?raw=true) | ![sdxl-photo place preview](/preview_generator/images/sdxl_photo_place.webp?raw=true) | ![sdxl-photo thing preview](/preview_generator/images/sdxl_photo_thing.webp?raw=true) |
+
+## sdxl-photo-horizontal
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxl-photo-horizontal person preview](/preview_generator/images/sdxl_photo_horizontal_person.webp?raw=true) | ![sdxl-photo-horizontal place preview](/preview_generator/images/sdxl_photo_horizontal_place.webp?raw=true) | ![sdxl-photo-horizontal thing preview](/preview_generator/images/sdxl_photo_horizontal_thing.webp?raw=true) |
+
+## sdxl-landscape
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxl-landscape person preview](/preview_generator/images/sdxl_landscape_person.webp?raw=true) | ![sdxl-landscape place preview](/preview_generator/images/sdxl_landscape_place.webp?raw=true) | ![sdxl-landscape thing preview](/preview_generator/images/sdxl_landscape_thing.webp?raw=true) |
+
