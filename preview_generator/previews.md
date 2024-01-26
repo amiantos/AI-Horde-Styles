@@ -375,3 +375,28 @@
 | --- | --- | --- |
 | ![reelhorror person preview](/preview_generator/images/reelhorror_person.webp?raw=true) | ![reelhorror place preview](/preview_generator/images/reelhorror_place.webp?raw=true) | ![reelhorror thing preview](/preview_generator/images/reelhorror_thing.webp?raw=true) |
 
+## bodyhorror
+| person | place | thing |
+| --- | --- | --- |
+| ![bodyhorror person preview](/preview_generator/images/bodyhorror_person.webp?raw=true) | ![bodyhorror place preview](/preview_generator/images/bodyhorror_place.webp?raw=true) | ![bodyhorror thing preview](/preview_generator/images/bodyhorror_thing.webp?raw=true) |
+
+## nastyhorrors
+| person | place | thing |
+| --- | --- | --- |
+| ![nastyhorrors person preview](/preview_generator/images/nastyhorrors_person.webp?raw=true) | ![nastyhorrors place preview](/preview_generator/images/nastyhorrors_place.webp?raw=true) | ![nastyhorrors thing preview](/preview_generator/images/nastyhorrors_thing.webp?raw=true) |
+
+## ivorygoldai
+| person | place | thing |
+| --- | --- | --- |
+| ![ivorygoldai person preview](/preview_generator/images/ivorygoldai_person.webp?raw=true) | ![ivorygoldai place preview](/preview_generator/images/ivorygoldai_place.webp?raw=true) | ![ivorygoldai thing preview](/preview_generator/images/ivorygoldai_thing.webp?raw=true) |
+
+## arielphorror
+| person | place | thing |
+| --- | --- | --- |
+| ![arielphorror person preview](/preview_generator/images/arielphorror_person.webp?raw=true) | ![arielphorror place preview](/preview_generator/images/arielphorror_place.webp?raw=true) | ![arielphorror thing preview](/preview_generator/images/arielphorror_thing.webp?raw=true) |
+
+## dreadhorror
+| person | place | thing |
+| --- | --- | --- |
+| ![dreadhorror person preview](/preview_generator/images/dreadhorror_person.webp?raw=true) | ![dreadhorror place preview](/preview_generator/images/dreadhorror_place.webp?raw=true) | ![dreadhorror thing preview](/preview_generator/images/dreadhorror_thing.webp?raw=true) |
+
