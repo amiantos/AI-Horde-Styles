@@ -150,3 +150,13 @@
 | --- | --- | --- |
 | ![sdxlcatgirlportrait person preview](/preview_generator/images/sdxlcatgirlportrait_person.webp?raw=true) | ![sdxlcatgirlportrait place preview](/preview_generator/images/sdxlcatgirlportrait_place.webp?raw=true) | ![sdxlcatgirlportrait thing preview](/preview_generator/images/sdxlcatgirlportrait_thing.webp?raw=true) |
 
+## neonnoir
+| person | place | thing |
+| --- | --- | --- |
+| ![neonnoir person preview](/preview_generator/images/neonnoir_person.webp?raw=true) | ![neonnoir place preview](/preview_generator/images/neonnoir_place.webp?raw=true) | ![neonnoir thing preview](/preview_generator/images/neonnoir_thing.webp?raw=true) |
+
+## floralceramic
+| person | place | thing |
+| --- | --- | --- |
+| ![floralceramic person preview](/preview_generator/images/floralceramic_person.webp?raw=true) | ![floralceramic place preview](/preview_generator/images/floralceramic_place.webp?raw=true) | ![floralceramic thing preview](/preview_generator/images/floralceramic_thing.webp?raw=true) |
+
