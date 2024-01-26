@@ -175,3 +175,18 @@
 | --- | --- | --- |
 | ![antiquetarotcard person preview](/preview_generator/images/antiquetarotcard_person.webp?raw=true) | ![antiquetarotcard place preview](/preview_generator/images/antiquetarotcard_place.webp?raw=true) | ![antiquetarotcard thing preview](/preview_generator/images/antiquetarotcard_thing.webp?raw=true) |
 
+## playingcard
+| person | place | thing |
+| --- | --- | --- |
+| ![playingcard person preview](/preview_generator/images/playingcard_person.webp?raw=true) | ![playingcard place preview](/preview_generator/images/playingcard_place.webp?raw=true) | ![playingcard thing preview](/preview_generator/images/playingcard_thing.webp?raw=true) |
+
+## mtgcard
+| person | place | thing |
+| --- | --- | --- |
+| ![mtgcard person preview](/preview_generator/images/mtgcard_person.webp?raw=true) | ![mtgcard place preview](/preview_generator/images/mtgcard_place.webp?raw=true) | ![mtgcard thing preview](/preview_generator/images/mtgcard_thing.webp?raw=true) |
+
+## baseballcard
+| person | place | thing |
+| --- | --- | --- |
+| ![baseballcard person preview](/preview_generator/images/baseballcard_person.webp?raw=true) | ![baseballcard place preview](/preview_generator/images/baseballcard_place.webp?raw=true) | ![baseballcard thing preview](/preview_generator/images/baseballcard_thing.webp?raw=true) |
+
