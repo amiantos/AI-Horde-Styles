@@ -550,3 +550,88 @@
 | --- | --- | --- |
 | ![witchpunk person preview](/preview_generator/images/witchpunk_person.webp?raw=true) | ![witchpunk place preview](/preview_generator/images/witchpunk_place.webp?raw=true) | ![witchpunk thing preview](/preview_generator/images/witchpunk_thing.webp?raw=true) |
 
+## colorpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![colorpunk person preview](/preview_generator/images/colorpunk_person.webp?raw=true) | ![colorpunk place preview](/preview_generator/images/colorpunk_place.webp?raw=true) | ![colorpunk thing preview](/preview_generator/images/colorpunk_thing.webp?raw=true) |
+
+## bronzepunk
+| person | place | thing |
+| --- | --- | --- |
+| ![bronzepunk person preview](/preview_generator/images/bronzepunk_person.webp?raw=true) | ![bronzepunk place preview](/preview_generator/images/bronzepunk_place.webp?raw=true) | ![bronzepunk thing preview](/preview_generator/images/bronzepunk_thing.webp?raw=true) |
+
+## neonpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![neonpunk person preview](/preview_generator/images/neonpunk_person.webp?raw=true) | ![neonpunk place preview](/preview_generator/images/neonpunk_place.webp?raw=true) | ![neonpunk thing preview](/preview_generator/images/neonpunk_thing.webp?raw=true) |
+
+## kazakpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![kazakpunk person preview](/preview_generator/images/kazakpunk_person.webp?raw=true) | ![kazakpunk place preview](/preview_generator/images/kazakpunk_place.webp?raw=true) | ![kazakpunk thing preview](/preview_generator/images/kazakpunk_thing.webp?raw=true) |
+
+## grecopunk
+| person | place | thing |
+| --- | --- | --- |
+| ![grecopunk person preview](/preview_generator/images/grecopunk_person.webp?raw=true) | ![grecopunk place preview](/preview_generator/images/grecopunk_place.webp?raw=true) | ![grecopunk thing preview](/preview_generator/images/grecopunk_thing.webp?raw=true) |
+
+## romanpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![romanpunk person preview](/preview_generator/images/romanpunk_person.webp?raw=true) | ![romanpunk place preview](/preview_generator/images/romanpunk_place.webp?raw=true) | ![romanpunk thing preview](/preview_generator/images/romanpunk_thing.webp?raw=true) |
+
+## sovietpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![sovietpunk person preview](/preview_generator/images/sovietpunk_person.webp?raw=true) | ![sovietpunk place preview](/preview_generator/images/sovietpunk_place.webp?raw=true) | ![sovietpunk thing preview](/preview_generator/images/sovietpunk_thing.webp?raw=true) |
+
+## arabiannightspunk
+| person | place | thing |
+| --- | --- | --- |
+| ![arabiannightspunk person preview](/preview_generator/images/arabiannightspunk_person.webp?raw=true) | ![arabiannightspunk place preview](/preview_generator/images/arabiannightspunk_place.webp?raw=true) | ![arabiannightspunk thing preview](/preview_generator/images/arabiannightspunk_thing.webp?raw=true) |
+
+## steampunk
+| person | place | thing |
+| --- | --- | --- |
+| ![steampunk person preview](/preview_generator/images/steampunk_person.webp?raw=true) | ![steampunk place preview](/preview_generator/images/steampunk_place.webp?raw=true) | ![steampunk thing preview](/preview_generator/images/steampunk_thing.webp?raw=true) |
+
+## cogpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![cogpunk person preview](/preview_generator/images/cogpunk_person.webp?raw=true) | ![cogpunk place preview](/preview_generator/images/cogpunk_place.webp?raw=true) | ![cogpunk thing preview](/preview_generator/images/cogpunk_thing.webp?raw=true) |
+
+## victorianpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![victorianpunk person preview](/preview_generator/images/victorianpunk_person.webp?raw=true) | ![victorianpunk place preview](/preview_generator/images/victorianpunk_place.webp?raw=true) | ![victorianpunk thing preview](/preview_generator/images/victorianpunk_thing.webp?raw=true) |
+
+## biopunk
+| person | place | thing |
+| --- | --- | --- |
+| ![biopunk person preview](/preview_generator/images/biopunk_person.webp?raw=true) | ![biopunk place preview](/preview_generator/images/biopunk_place.webp?raw=true) | ![biopunk thing preview](/preview_generator/images/biopunk_thing.webp?raw=true) |
+
+## mahabharatapunk
+| person | place | thing |
+| --- | --- | --- |
+| ![mahabharatapunk person preview](/preview_generator/images/mahabharatapunk_person.webp?raw=true) | ![mahabharatapunk place preview](/preview_generator/images/mahabharatapunk_place.webp?raw=true) | ![mahabharatapunk thing preview](/preview_generator/images/mahabharatapunk_thing.webp?raw=true) |
+
+## javapunk
+| person | place | thing |
+| --- | --- | --- |
+| ![javapunk person preview](/preview_generator/images/javapunk_person.webp?raw=true) | ![javapunk place preview](/preview_generator/images/javapunk_place.webp?raw=true) | ![javapunk thing preview](/preview_generator/images/javapunk_thing.webp?raw=true) |
+
+## balipunk
+| person | place | thing |
+| --- | --- | --- |
+| ![balipunk person preview](/preview_generator/images/balipunk_person.webp?raw=true) | ![balipunk place preview](/preview_generator/images/balipunk_place.webp?raw=true) | ![balipunk thing preview](/preview_generator/images/balipunk_thing.webp?raw=true) |
+
+## dieselpunk
+| person | place | thing |
+| --- | --- | --- |
+| ![dieselpunk person preview](/preview_generator/images/dieselpunk_person.webp?raw=true) | ![dieselpunk place preview](/preview_generator/images/dieselpunk_place.webp?raw=true) | ![dieselpunk thing preview](/preview_generator/images/dieselpunk_thing.webp?raw=true) |
+
+## totempunk
+| person | place | thing |
+| --- | --- | --- |
+| ![totempunk person preview](/preview_generator/images/totempunk_person.webp?raw=true) | ![totempunk place preview](/preview_generator/images/totempunk_place.webp?raw=true) | ![totempunk thing preview](/preview_generator/images/totempunk_thing.webp?raw=true) |
+
