@@ -65,17 +65,9 @@ const main = async () => {
   fs.writeFileSync("previews.md", "# Style Previews\n---\n\n");
 
   // to generate all styles
-  var limit = 5;
   for (const [styleName, styleContents] of Object.entries(styles)) {
     await generateImagesForStyle(styleName, styleContents, models);
-    limit--;
-    if (limit <= 0) {
-      break;
-    }
   }
-
-  // await generateImagesForStyle("celtpunk", styles["celtpunk"], models);
-
   console.log("I am finished!");
 };
 
