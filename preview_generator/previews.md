@@ -205,3 +205,78 @@
 | --- | --- | --- |
 | ![goldenagecomics person preview](/preview_generator/images/goldenagecomics_person.webp?raw=true) | ![goldenagecomics place preview](/preview_generator/images/goldenagecomics_place.webp?raw=true) | ![goldenagecomics thing preview](/preview_generator/images/goldenagecomics_thing.webp?raw=true) |
 
+## manga
+| person | place | thing |
+| --- | --- | --- |
+| ![manga person preview](/preview_generator/images/manga_person.webp?raw=true) | ![manga place preview](/preview_generator/images/manga_place.webp?raw=true) | ![manga thing preview](/preview_generator/images/manga_thing.webp?raw=true) |
+
+## sdxlanime
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlanime person preview](/preview_generator/images/sdxlanime_person.webp?raw=true) | ![sdxlanime place preview](/preview_generator/images/sdxlanime_place.webp?raw=true) | ![sdxlanime thing preview](/preview_generator/images/sdxlanime_thing.webp?raw=true) |
+
+## portraitphoto
+| person | place | thing |
+| --- | --- | --- |
+| ![portraitphoto person preview](/preview_generator/images/portraitphoto_person.webp?raw=true) | ![portraitphoto place preview](/preview_generator/images/portraitphoto_place.webp?raw=true) | ![portraitphoto thing preview](/preview_generator/images/portraitphoto_thing.webp?raw=true) |
+
+## sdxlspace
+| person | place | thing |
+| --- | --- | --- |
+| ![sdxlspace person preview](/preview_generator/images/sdxlspace_person.webp?raw=true) | ![sdxlspace place preview](/preview_generator/images/sdxlspace_place.webp?raw=true) | ![sdxlspace thing preview](/preview_generator/images/sdxlspace_thing.webp?raw=true) |
+
+## schematic
+| person | place | thing |
+| --- | --- | --- |
+| ![schematic person preview](/preview_generator/images/schematic_person.webp?raw=true) | ![schematic place preview](/preview_generator/images/schematic_place.webp?raw=true) | ![schematic thing preview](/preview_generator/images/schematic_thing.webp?raw=true) |
+
+## futurefashion
+| person | place | thing |
+| --- | --- | --- |
+| ![futurefashion person preview](/preview_generator/images/futurefashion_person.webp?raw=true) | ![futurefashion place preview](/preview_generator/images/futurefashion_place.webp?raw=true) | ![futurefashion thing preview](/preview_generator/images/futurefashion_thing.webp?raw=true) |
+
+## building
+| person | place | thing |
+| --- | --- | --- |
+| ![building person preview](/preview_generator/images/building_person.webp?raw=true) | ![building place preview](/preview_generator/images/building_place.webp?raw=true) | ![building thing preview](/preview_generator/images/building_thing.webp?raw=true) |
+
+## animal
+| person | place | thing |
+| --- | --- | --- |
+| ![animal person preview](/preview_generator/images/animal_person.webp?raw=true) | ![animal place preview](/preview_generator/images/animal_place.webp?raw=true) | ![animal thing preview](/preview_generator/images/animal_thing.webp?raw=true) |
+
+## vaporwave
+| person | place | thing |
+| --- | --- | --- |
+| ![vaporwave person preview](/preview_generator/images/vaporwave_person.webp?raw=true) | ![vaporwave place preview](/preview_generator/images/vaporwave_place.webp?raw=true) | ![vaporwave thing preview](/preview_generator/images/vaporwave_thing.webp?raw=true) |
+
+## isometric
+| person | place | thing |
+| --- | --- | --- |
+| ![isometric person preview](/preview_generator/images/isometric_person.webp?raw=true) | ![isometric place preview](/preview_generator/images/isometric_place.webp?raw=true) | ![isometric thing preview](/preview_generator/images/isometric_thing.webp?raw=true) |
+
+## lowpoly
+| person | place | thing |
+| --- | --- | --- |
+| ![lowpoly person preview](/preview_generator/images/lowpoly_person.webp?raw=true) | ![lowpoly place preview](/preview_generator/images/lowpoly_place.webp?raw=true) | ![lowpoly thing preview](/preview_generator/images/lowpoly_thing.webp?raw=true) |
+
+## claymation
+| person | place | thing |
+| --- | --- | --- |
+| ![claymation person preview](/preview_generator/images/claymation_person.webp?raw=true) | ![claymation place preview](/preview_generator/images/claymation_place.webp?raw=true) | ![claymation thing preview](/preview_generator/images/claymation_thing.webp?raw=true) |
+
+## origami
+| person | place | thing |
+| --- | --- | --- |
+| ![origami person preview](/preview_generator/images/origami_person.webp?raw=true) | ![origami place preview](/preview_generator/images/origami_place.webp?raw=true) | ![origami thing preview](/preview_generator/images/origami_thing.webp?raw=true) |
+
+## lineart
+| person | place | thing |
+| --- | --- | --- |
+| ![lineart person preview](/preview_generator/images/lineart_person.webp?raw=true) | ![lineart place preview](/preview_generator/images/lineart_place.webp?raw=true) | ![lineart thing preview](/preview_generator/images/lineart_thing.webp?raw=true) |
+
+## pixelart
+| person | place | thing |
+| --- | --- | --- |
+| ![pixelart person preview](/preview_generator/images/pixelart_person.webp?raw=true) | ![pixelart place preview](/preview_generator/images/pixelart_place.webp?raw=true) | ![pixelart thing preview](/preview_generator/images/pixelart_thing.webp?raw=true) |
+
